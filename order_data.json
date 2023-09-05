@@ -1,8 +1,6 @@
 [
     {
-        "orderNr": [
-            "Bestellung #7575051349"
-        ],
+        "orderNr": "7575051349",
         "orders": [
             {
                 "Name": "Ronald Hackhausen",
@@ -11,9 +9,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7503420539"
-        ],
+        "orderNr": "7503420539",
         "orders": [
             {
                 "Name": "Sarah Lesch",
@@ -22,9 +18,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7494101609"
-        ],
+        "orderNr": "7494101609",
         "orders": [
             {
                 "Name": "Dana Weichelt",
@@ -33,9 +27,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7436076269"
-        ],
+        "orderNr": "7436076269",
         "orders": [
             {
                 "Name": "Thomas Pani",
@@ -44,9 +36,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7428203349"
-        ],
+        "orderNr": "7428203349",
         "orders": [
             {
                 "Name": "Birgit Koch",
@@ -55,9 +45,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7378732259"
-        ],
+        "orderNr": "7378732259",
         "orders": [
             {
                 "Name": "Sabrina \u00d6fner",
@@ -66,9 +54,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7378713329"
-        ],
+        "orderNr": "7378713329",
         "orders": [
             {
                 "Name": "Petra Unterbichler",
@@ -77,13 +63,7 @@
         ]
     },
     {
-        "orderNr": [],
-        "orders": []
-    },
-    {
-        "orderNr": [
-            "Bestellung #7277056349"
-        ],
+        "orderNr": "7277056349",
         "orders": [
             {
                 "Name": "Dennis Walkowiak",
@@ -92,9 +72,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7269061599"
-        ],
+        "orderNr": "7269061599",
         "orders": [
             {
                 "Name": "Anne Lende",
@@ -103,9 +81,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7269019709"
-        ],
+        "orderNr": "7269019709",
         "orders": [
             {
                 "Name": "Antonia Angermann",
@@ -114,9 +90,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7268975809"
-        ],
+        "orderNr": "7268975809",
         "orders": [
             {
                 "Name": "Katrin Zerrenthin",
@@ -125,20 +99,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7267432699"
-        ],
-        "orders": [
-            {
-                "Name": "Volker Kellner",
-                "Ticket": "Tagesveranstaltung"
-            }
-        ]
-    },
-    {
-        "orderNr": [
-            "Bestellung #7266924559"
-        ],
+        "orderNr": "7266924559",
         "orders": [
             {
                 "Name": "Thorsten M\u00fcller",
@@ -159,9 +120,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7260156579"
-        ],
+        "orderNr": "7260156579",
         "orders": [
             {
                 "Name": "Thomas Gesing",
@@ -174,9 +133,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7251417489"
-        ],
+        "orderNr": "7251417489",
         "orders": [
             {
                 "Name": "Martin Michael",
@@ -189,9 +146,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7251414819"
-        ],
+        "orderNr": "7251414819",
         "orders": [
             {
                 "Name": "Conny Herre",
@@ -204,9 +159,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7233450969"
-        ],
+        "orderNr": "7233450969",
         "orders": [
             {
                 "Name": "Christoph Danninger",
@@ -215,9 +168,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7223947939"
-        ],
+        "orderNr": "7223947939",
         "orders": [
             {
                 "Name": "Timo Seidel",
@@ -226,9 +177,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7223174709"
-        ],
+        "orderNr": "7223174709",
         "orders": [
             {
                 "Name": "Tim Ponath",
@@ -237,9 +186,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7221902389"
-        ],
+        "orderNr": "7221902389",
         "orders": [
             {
                 "Name": "Hardy H\u00fcnich",
@@ -248,9 +195,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7221885959"
-        ],
+        "orderNr": "7221885959",
         "orders": [
             {
                 "Name": "Cornelia Kluger",
@@ -259,9 +204,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7221737089"
-        ],
+        "orderNr": "7221737089",
         "orders": [
             {
                 "Name": "Carsten Stolz",
@@ -274,9 +217,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7221667619"
-        ],
+        "orderNr": "7221667619",
         "orders": [
             {
                 "Name": "Martin Budek",
@@ -289,9 +230,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7215677469"
-        ],
+        "orderNr": "7215677469",
         "orders": [
             {
                 "Name": "Christina Gahrens",
@@ -304,9 +243,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7215456059"
-        ],
+        "orderNr": "7215456059",
         "orders": [
             {
                 "Name": "Michael Menne",
@@ -315,9 +252,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7175361939"
-        ],
+        "orderNr": "7175361939",
         "orders": [
             {
                 "Name": "Detlef von Buttlar",
@@ -326,9 +261,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7174389899"
-        ],
+        "orderNr": "7174389899",
         "orders": [
             {
                 "Name": "Peter Zeising",
@@ -341,9 +274,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7174375409"
-        ],
+        "orderNr": "7174375409",
         "orders": [
             {
                 "Name": "Marcus Schmidt",
@@ -356,9 +287,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7101192319"
-        ],
+        "orderNr": "7101192319",
         "orders": [
             {
                 "Name": "Karen Raschke",
@@ -371,9 +300,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100805759"
-        ],
+        "orderNr": "7100805759",
         "orders": [
             {
                 "Name": "Axel Waldecker",
@@ -382,9 +309,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100799499"
-        ],
+        "orderNr": "7100799499",
         "orders": [
             {
                 "Name": "Jason Mei\u00dfner",
@@ -393,9 +318,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100787719"
-        ],
+        "orderNr": "7100787719",
         "orders": [
             {
                 "Name": "Jennifer Filthaus",
@@ -404,9 +327,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100780509"
-        ],
+        "orderNr": "7100780509",
         "orders": [
             {
                 "Name": "Jouline Leuchtmann",
@@ -415,9 +336,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100770779"
-        ],
+        "orderNr": "7100770779",
         "orders": [
             {
                 "Name": "Christoph Dahlmann",
@@ -430,9 +349,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7100766169"
-        ],
+        "orderNr": "7100766169",
         "orders": [
             {
                 "Name": "Annika Harbig",
@@ -441,9 +358,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7093812889"
-        ],
+        "orderNr": "7093812889",
         "orders": [
             {
                 "Name": "Ulf Linkner",
@@ -456,9 +371,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7093803379"
-        ],
+        "orderNr": "7093803379",
         "orders": [
             {
                 "Name": "Thomas Ratzlaff",
@@ -471,9 +384,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7066901049"
-        ],
+        "orderNr": "7066901049",
         "orders": [
             {
                 "Name": "Marion Strater-Steinfartz",
@@ -482,9 +393,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7065484089"
-        ],
+        "orderNr": "7065484089",
         "orders": [
             {
                 "Name": "Andreas Corrado",
@@ -493,9 +402,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7064005819"
-        ],
+        "orderNr": "7064005819",
         "orders": [
             {
                 "Name": "Tim Scheffer",
@@ -504,9 +411,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7056463479"
-        ],
+        "orderNr": "7056463479",
         "orders": [
             {
                 "Name": "Rene Ewald",
@@ -515,9 +420,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7055816569"
-        ],
+        "orderNr": "7055816569",
         "orders": [
             {
                 "Name": "Markus Goretzky",
@@ -530,9 +433,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7048362889"
-        ],
+        "orderNr": "7048362889",
         "orders": [
             {
                 "Name": "Alexander Liebrecht",
@@ -549,9 +450,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7047752369"
-        ],
+        "orderNr": "7047752369",
         "orders": [
             {
                 "Name": "Remco Saelman",
@@ -564,9 +463,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7047718309"
-        ],
+        "orderNr": "7047718309",
         "orders": [
             {
                 "Name": "Kai van der Hoven",
@@ -579,9 +476,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7047500719"
-        ],
+        "orderNr": "7047500719",
         "orders": [
             {
                 "Name": "Steffen Honacker",
@@ -590,9 +485,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7047498269"
-        ],
+        "orderNr": "7047498269",
         "orders": [
             {
                 "Name": "Bernd Klo\u0308pper",
@@ -601,9 +494,7 @@
         ]
     },
     {
-        "orderNr": [
-            "Bestellung #7047330679"
-        ],
+        "orderNr": "7047330679",
         "orders": [
             {
                 "Name": "Christian Nu\u0308\u00dfer",

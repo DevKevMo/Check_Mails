@@ -18,11 +18,13 @@ if subfolder:
     messages = subfolder.Items
     message = messages.GetLast()
     pattern = r"(Bestellung|0,00 €)\s+(.*?)1 x\s+Teilnahme\s+(inkl. Kochevent|Tagesveranstaltung)"
-    patternOrderNr = r"Bestellung\s+#\d{10}"
+    patternOrderNr = r"Bestellung\s+#(\d{10})"
+    patternRemoveOrder = r"Auftragsnummer\s+:\s+(\d{10})"
     attachments = message.Attachments
 
     if attachments.Count > 0:
         barcodeData = []
+        removeList = []
         for i in range(attachments.Count):
             attachment = attachments.Item(i + 1)
 
@@ -43,13 +45,20 @@ if subfolder:
                         "Ticket": match[2].strip()
                     }
                     orders.append(order)
-                orderData = {
-                    "orderNr": orderNrMatch,
+                if not orderNrMatch: 
+                    removeNr = re.findall(patternRemoveOrder, msg.body)
+                    if removeNr:
+                        removeList.append(removeNr[0])
+                else:
+                     orderData = {
+                    "orderNr": orderNrMatch[0],
                     "orders": orders
-                }
-                if orderData: 
-                    barcodeData.append(orderData)
-                
+                    }
+                     barcodeData.append(orderData)  
+         
+        for removeId in removeList:
+            barcodeData = [item for item in barcodeData if item["orderNr"] != removeId]
+            print("removed order " + removeId)
         file_name = 'order_data.json'
         file_path = directory + "\\" + file_name
 
