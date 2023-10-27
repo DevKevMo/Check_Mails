@@ -6,7 +6,7 @@ import json
 try:
     outlook = win32com.client.Dispatch(
         "Outlook.Application").GetNamespace("MAPI")
-    inbox = outlook.GetDefaultFolder(6)
+    inbox = outlook.GetDefaultFolder(6) # Posteingang
     subfolder_name = "Kundentag"
     directory = os.getcwd()
 

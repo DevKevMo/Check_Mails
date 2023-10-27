@@ -1,0 +1,476 @@
+[
+    {
+        "Company": "ABG Frankfurt Holding GmbH",
+        "Customers": [
+            {
+                "Name": "Boumart",
+                "Vorname": "Amra"
+            },
+            {
+                "Name": "Rahmani",
+                "Vorname": "Djamil"
+            },
+            {
+                "Name": "Karnstedt",
+                "Vorname": "Anselm"
+            },
+            {
+                "Name": "Podien",
+                "Vorname": "Anna-Kathrin"
+            }
+        ]
+    },
+    {
+        "Company": "ATCP Management GmbH",
+        "Customers": [
+            {
+                "Name": "Honacker",
+                "Vorname": "Steffen"
+            }
+        ]
+    },
+    {
+        "Company": "Allbau Managementgesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "Höing",
+                "Vorname": "Georg"
+            }
+        ]
+    },
+    {
+        "Company": "CAPERA Immobilien Service GmbH",
+        "Customers": [
+            {
+                "Name": "Hünich",
+                "Vorname": "Hardy"
+            }
+        ]
+    },
+    {
+        "Company": "Conresult GmbH",
+        "Customers": [
+            {
+                "Name": "Schmidt",
+                "Vorname": "Marcus"
+            },
+            {
+                "Name": "Zeising",
+                "Vorname": "Peter"
+            }
+        ]
+    },
+    {
+        "Company": "Dawonia Management GmbH",
+        "Customers": [
+            {
+                "Name": "Öfner",
+                "Vorname": "Sabrina"
+            },
+            {
+                "Name": "Unterbichler",
+                "Vorname": "Petra"
+            }
+        ]
+    },
+    {
+        "Company": "Deutsche Investment Kapitalverwaltung AG",
+        "Customers": [
+            {
+                "Name": "Meißner",
+                "Vorname": "Dirk"
+            }
+        ]
+    },
+    {
+        "Company": "Deutsche Reihenhaus AG",
+        "Customers": [
+            {
+                "Name": "Müller",
+                "Vorname": "Thorsten"
+            }
+        ]
+    },
+    {
+        "Company": "EB Immobilienmanagement GmbH",
+        "Customers": [
+            {
+                "Name": "Scharm",
+                "Vorname": "Sebastian"
+            }
+        ]
+    },
+    {
+        "Company": "Fresenius SE & Co. KGaA",
+        "Customers": [
+            {
+                "Name": "Koch",
+                "Vorname": "Birgit"
+            }
+        ]
+    },
+    {
+        "Company": "GAG Immobilien AG",
+        "Customers": [
+            {
+                "Name": "Lesch",
+                "Vorname": "Sarah"
+            },
+            {
+                "Name": "Mathieu",
+                "Vorname": "Michael"
+            }
+        ]
+    },
+    {
+        "Company": "GEBAG Duisburger Baugesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "van der Hoven",
+                "Vorname": "Kai"
+            },
+            {
+                "Name": "Weichelt",
+                "Vorname": "Dana"
+            },
+            {
+                "Name": "Amling",
+                "Vorname": "Pia"
+            }
+        ]
+    },
+    {
+        "Company": "GEWAG Wohnungsaktiengesellschaft Remscheid",
+        "Customers": [
+            {
+                "Name": "Budek",
+                "Vorname": "Martin"
+            }
+        ]
+    },
+    {
+        "Company": "GWG Gesellschaft für Wohnungs- und Gewerbebau Baden-Württemberg",
+        "Customers": [
+            {
+                "Name": "Dahlmann",
+                "Vorname": "Christopher"
+            },
+            {
+                "Name": "Raschke",
+                "Vorname": "Karen"
+            }
+        ]
+    },
+    {
+        "Company": "GWH Wohnungsgesellschaft mbH Essen",
+        "Customers": [
+            {
+                "Name": "Pani",
+                "Vorname": "Thomas"
+            }
+        ]
+    },
+    {
+        "Company": "HAMBL GmbH",
+        "Customers": [
+            {
+                "Name": "Heimel ",
+                "Vorname": "Steffen"
+            }
+        ]
+    },
+    {
+        "Company": "HOWOGE Wohnungsbaugesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "Offenwanger",
+                "Vorname": "Nadine"
+            },
+            {
+                "Name": "Thiele",
+                "Vorname": "Cindy"
+            }
+        ]
+    },
+    {
+        "Company": "Habasit GmbH",
+        "Customers": [
+            {
+                "Name": "Diefenbach",
+                "Vorname": "Günther"
+            }
+        ]
+    },
+    {
+        "Company": "Immobilien Management Essen GmbH",
+        "Customers": [
+            {
+                "Name": "Menne",
+                "Vorname": "Michael"
+            }
+        ]
+    },
+    {
+        "Company": "KoWo - Kommunale Wohnungsgesellschaft mbH Erfurt",
+        "Customers": [
+            {
+                "Name": "Deckert",
+                "Vorname": "Tony"
+            }
+        ]
+    },
+    {
+        "Company": "LCS Consulting und Service GmbH",
+        "Customers": [
+            {
+                "Name": "Scheffer",
+                "Vorname": "Tim"
+            }
+        ]
+    },
+    {
+        "Company": "LEG Management GmbH",
+        "Customers": [
+            {
+                "Name": "Klöpper",
+                "Vorname": "Bernd"
+            }
+        ]
+    },
+    {
+        "Company": "LEG Wohnen NRW GmbH",
+        "Customers": [
+            {
+                "Name": "Harbig",
+                "Vorname": "Annika"
+            },
+            {
+                "Name": "Leuchtmann",
+                "Vorname": "Jouline"
+            },
+            {
+                "Name": "Filthaus",
+                "Vorname": "Jennifer"
+            },
+            {
+                "Name": "Meißner",
+                "Vorname": "Jason"
+            }
+        ]
+    },
+    {
+        "Company": "Lufthansa Consulting GmbH",
+        "Customers": [
+            {
+                "Name": "Gahrens",
+                "Vorname": "Christina"
+            }
+        ]
+    },
+    {
+        "Company": "Marien Gesellschaft Siegen gGmbH",
+        "Customers": [
+            {
+                "Name": "Hackhausen",
+                "Vorname": "Ronald"
+            }
+        ]
+    },
+    {
+        "Company": "NEUE LÜBECKER Norddeutsche Baugenossenschaft eG",
+        "Customers": [
+            {
+                "Name": "Ratzlaff",
+                "Vorname": "Thomas"
+            },
+            {
+                "Name": "Linkner",
+                "Vorname": "Ulf"
+            },
+            {
+                "Name": "Stolz",
+                "Vorname": "Carsten"
+            }
+        ]
+    },
+    {
+        "Company": "NSB Niederelbe Schifffahrtsgesellschaft mbH & Co. KG",
+        "Customers": [
+            {
+                "Name": "Ponath",
+                "Vorname": "Tim"
+            }
+        ]
+    },
+    {
+        "Company": "Nassauische Heimstätte Wohnungs- und Entwicklungsgesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "Schwade",
+                "Vorname": "Martin"
+            }
+        ]
+    },
+    {
+        "Company": "POLYGON Deutschland GmbH",
+        "Customers": [
+            {
+                "Name": "Schmelzer",
+                "Vorname": "Monika"
+            },
+            {
+                "Name": "Held",
+                "Vorname": "Nicole"
+            },
+            {
+                "Name": "Stelter",
+                "Vorname": "Tatjana"
+            }
+        ]
+    },
+    {
+        "Company": "Peach Hausverwaltungen GmbH",
+        "Customers": [
+            {
+                "Name": "Seidel",
+                "Vorname": "Timo"
+            }
+        ]
+    },
+    {
+        "Company": "PostNL",
+        "Customers": [
+            {
+                "Name": "Heijda",
+                "Vorname": "Johan"
+            },
+            {
+                "Name": "Saelman",
+                "Vorname": "Remco"
+            }
+        ]
+    },
+    {
+        "Company": "QUARTERBACK Immobilien AG",
+        "Customers": [
+            {
+                "Name": "Herre",
+                "Vorname": "Conny"
+            },
+            {
+                "Name": "Knopf",
+                "Vorname": "Stefan"
+            }
+        ]
+    },
+    {
+        "Company": "STADT UND LAND Wohnbauten-Gesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "Zerrenthin",
+                "Vorname": "Katrin"
+            },
+            {
+                "Name": "Angermann",
+                "Vorname": "Antonia"
+            },
+            {
+                "Name": "Lende",
+                "Vorname": "Anne"
+            }
+        ]
+    },
+    {
+        "Company": "STRABAG Building and Industrial Services GmbH",
+        "Customers": [
+            {
+                "Name": "Danninger",
+                "Vorname": "Christoph"
+            }
+        ]
+    },
+    {
+        "Company": "STRABAG Property and Facility Services GmbH",
+        "Customers": [
+            {
+                "Name": "Feucht",
+                "Vorname": "Ralf"
+            }
+        ]
+    },
+    {
+        "Company": "Tarea GmbH",
+        "Customers": [
+            {
+                "Name": "Heithoff",
+                "Vorname": "Thomas"
+            }
+        ]
+    },
+    {
+        "Company": "Technologietrendforscher",
+        "Customers": [
+            {
+                "Name": "Herger",
+                "Vorname": "Mario"
+            }
+        ]
+    },
+    {
+        "Company": "VBW Bauen und Wohnen GmbH",
+        "Customers": [
+            {
+                "Name": "Corrado",
+                "Vorname": "Andreas"
+            },
+            {
+                "Name": "Walkowiak",
+                "Vorname": "Dennis"
+            },
+            {
+                "Name": "Pohl",
+                "Vorname": "Lena"
+            }
+        ]
+    },
+    {
+        "Company": "Vitanas GmbH & Co. KGaA",
+        "Customers": [
+            {
+                "Name": "Erdle",
+                "Vorname": "Silke"
+            }
+        ]
+    },
+    {
+        "Company": "Vonovia SE",
+        "Customers": [
+            {
+                "Name": "von Buttlar",
+                "Vorname": "Detlef"
+            }
+        ]
+    },
+    {
+        "Company": "WOBEGE Wohnbauten- und Beteiligungsgesellschaft mbH",
+        "Customers": [
+            {
+                "Name": "Arana",
+                "Vorname": "Sigrid"
+            },
+            {
+                "Name": "Helms",
+                "Vorname": "Heidemarie"
+            }
+        ]
+    },
+    {
+        "Company": "noctua real estate GmbH",
+        "Customers": [
+            {
+                "Name": "Lindow",
+                "Vorname": "Torben"
+            }
+        ]
+    }
+]
